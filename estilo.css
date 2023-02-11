@@ -1,0 +1,21 @@
+.card{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: rgb(229 225 246);
+    border-radius: 35px;
+}
+
+.card-title {
+    text-align: center;
+    
+}
+
+.card>img{
+    border-radius: 32px;
+}
+
+.precio{
+    background: rgb(204 215 236);
+    width: 102px;
+    border-radius: 7px;
+    text-align: center;
+} 

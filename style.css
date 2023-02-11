@@ -1,0 +1,74 @@
+body{
+    font-family: 'Roboto', sans-serif!important;
+}
+
+body{
+    background: url('./img/job562-nunoon-10.jpg');
+    min-height: 70vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+/* header{
+    background-color: #2b275f80;
+} */
+
+.navbar-collapse{
+    flex-grow: 0;
+    
+    
+
+}
+
+.conteiner_card{
+    width: 18rem;   
+}
+
+.card-title{
+    height: 60px!important;
+}
+.btn_compra{
+    width: 3rem;
+}
+.conteiner_card>img{
+   
+    height: 250px;
+}
+
+.conteiner_descripcion{
+    height: 150px;
+    overflow-y: scroll;
+}
+
+
+
+.colorstock{
+    color: red;
+    font-weight: bold;
+}
+
+.conteiner_btn img{
+    width: 1rem;
+}
+
+#cantidad{
+    max-width: 5rem;
+}
+
+
+.logo_tienda{
+    width: 350px;
+    object-fit: cover;
+}
+.btn_conteiner_compra{
+    width: 80%;
+}
+
+/* @media only screen and (max-width : 780px) {
+    .table_scroll_tablet{
+        overflow-y: hidden;
+    }
+    
+} */
